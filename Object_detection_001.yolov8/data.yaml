@@ -1,0 +1,8 @@
+path: C:\Users\Sagar\Downloads\object_detection_001\Object_detection_001.v1i.yolov8\data.yaml
+train: ..\train\images
+val: ..\validation\images
+test: ..\test\images
+
+nc: 5
+names: ['laptop', 'mobile', 'monitor', 'person', 'poster']
+  
